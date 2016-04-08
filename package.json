@@ -1,0 +1,19 @@
+{
+  "name": "criticalmass",
+  "version": "1.0.0",
+  "description": "An app for planning events - commit to running an event if and only if enough people sign up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroku/python-getting-started.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heroku/python-getting-started/issues"
+  },
+  "homepage": "https://github.com/heroku/python-getting-started#readme"
+}
